@@ -2,6 +2,7 @@
 Workflow exercise
 
 Pros and cons to GPL 3 license:
+
 Pros
 1: Allows other develops to use, modify, and distrubute
 2. Allows commerical use
